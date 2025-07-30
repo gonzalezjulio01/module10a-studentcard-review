@@ -1,5 +1,5 @@
 # Module 10A
-StudentCard Code Review
+## StudentCard Code Review
 
 ## Description
 This assignment reviews the StudentCard React component. I added inline comments to explain how props are passed into the component, how state is used with the useState hook, and how the toggle button shows/hides the bio.
